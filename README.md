@@ -30,7 +30,7 @@
 * 🎓 Currently in my **4th semester** pursuing a **BS in Software Engineering** at Information Technology University (ITU), Lahore.
 * ☁️ Proud member of the **AWS Emerging Talent Community**.
 * 💻 Passionate about building robust software architectures and seamless user experiences. 
-* 💡 Merging technical logic with creativity: Experienced in complex data structures/algorithms, full-stack development, and full-suite graphic design, UI/UX, and 3D modeling.
+* 💡 Merging technical logic with creativity: Experienced in complex data structures/algorithms, and full-suite graphic design, UI/UX, and 3D modeling.
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/></a>
 
 ---
@@ -83,7 +83,7 @@
 
 ### 🚀 Featured Projects & Experience
 
-* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using PostgreSQL.
+* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using Supabase & React.
 * ✈️ **Flight Management System:** A robust backend system developed in C++ leveraging complex data structures and object-oriented programming principles.
 * ⚙️ **Automated CI/CD Pipeline:** Built and configured automated deployment pipelines utilizing Jenkins and Docker for continuous integration.
 * 🔐 **Secure Access Control System:** A digital logic design hardware simulation engineered in Multisim.
