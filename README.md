@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 * ☁️ Proud member of the **AWS Emerging Talent Community**.
 * 💻 Passionate about building robust software architectures and seamless user experiences. 
 * 💡 Merging technical logic with creativity: Experienced in complex data structures/algorithms, full-stack development, and full-suite graphic design, UI/UX, and 3D modeling.
-* 📫 How to reach me: **[Add your email or LinkedIn link here]**
+* 📫 How to reach me: <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/></a>
 
 ---
 
@@ -83,7 +83,7 @@
 
 ### 🚀 Featured Projects & Experience
 
-* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using Supabase & React.
+* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using PostgreSQL.
 * ✈️ **Flight Management System:** A robust backend system developed in C++ leveraging complex data structures and object-oriented programming principles.
 * ⚙️ **Automated CI/CD Pipeline:** Built and configured automated deployment pipelines utilizing Jenkins and Docker for continuous integration.
 * 🔐 **Secure Access Control System:** A digital logic design hardware simulation engineered in Multisim.
@@ -95,11 +95,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BSSE24002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSSE24002&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSSE24002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
