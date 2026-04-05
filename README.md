@@ -21,13 +21,13 @@ I am currently in my **4th semester** pursuing a BS in Software Engineering at I
 I specialize in merging heavy technical logic with creative design. Whether it's architecting complex data structures and C++ backend systems, or designing full-suite UI/UX and 3D models, I build software that is both robust under the hood and beautiful on the screen.
 
 <p align="center">
-  <a href="mailto:bsse24002@itu.edu.pk">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bsse24002@itu.edu.pk" target="_blank">
     <img src="https://img.shields.io/badge/Academic_Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic" />
   </a>
-  <a href="mailto:itsar.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsar.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal_Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal" />
   </a>
-  <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile">
+  <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
