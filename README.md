@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Profile%20Views&color=12C2E9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Profile%20Views&color=eb1736&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br/>
