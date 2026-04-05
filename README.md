@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=BSSE+Student+%40+ITU+Lahore;Building+Scalable+Software;Passionate+about+Code+%26+Design;Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSSE+Student+%40+ITU+Lahore;Building+Scalable+Software;Passionate+about+Code+%26+Design;Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Dynamic%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Profile%20Views&color=12C2E9&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br/>
