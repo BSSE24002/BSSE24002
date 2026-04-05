@@ -20,15 +20,22 @@ I am currently in my **4th semester** pursuing a BS in Software Engineering at I
 
 I specialize in merging heavy technical logic with creative design. Whether it's architecting complex data structures and C++ backend systems, or designing full-suite UI/UX and 3D models, I build software that is both robust under the hood and beautiful on the screen.
 
+<br/>
+
+### 🤝 Let's Build Something Together!
+<p align="center">
+  <i>Open for collaborations, freelance work, or just a quick chat. Drop me a message below! 👇</i>
+</p>
+
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bsse24002@itu.edu.pk" target="_blank">
-    <img src="https://img.shields.io/badge/Academic_Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic" />
+    <img src="https://img.shields.io/badge/Academic_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsar.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal" />
+    <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal" />
   </a>
   <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
