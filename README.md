@@ -83,7 +83,7 @@
 
 ### 🚀 Featured Projects & Experience
 
-* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using PostgreSQL.
+* 🛒 **Point of Sale (POS) System:** A comprehensive sales and inventory management application designed to streamline retail operations and database management using Supabase & React.
 * ✈️ **Flight Management System:** A robust backend system developed in C++ leveraging complex data structures and object-oriented programming principles.
 * ⚙️ **Automated CI/CD Pipeline:** Built and configured automated deployment pipelines utilizing Jenkins and Docker for continuous integration.
 * 🔐 **Secure Access Control System:** A digital logic design hardware simulation engineered in Multisim.
