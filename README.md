@@ -4,9 +4,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSSE+Student+%40+ITU+Lahore;Building+Scalable+Software;Passionate+about+Code+%26+Design;Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=BSSE+Student+%40+ITU+Lahore;Building+Scalable+Software;Passionate+about+Code+%26+Design;Turning+Ideas+into+Reality" 
+      alt="Typing SVG" 
+      id="typing-svg"
+    />
   </a>
 </p>
+
+<script>
+  const svg = document.getElementById('typing-svg');
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    svg.src = svg.src.replace('color=000000', 'color=FFFFFF');
+  }
+</script>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BSSE24002&label=Profile%20Views&color=eb1736&style=for-the-badge" alt="Profile Views" />
