@@ -58,7 +58,7 @@ I specialize in merging heavy technical logic with creative design. Whether it's
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,docker,jenkins,git,linux,postgres,figma,illustrator,ps,pr,ae,blender&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,docker,jenkins,git,linux,postgres,figma,illustrator,ps,pr,ae,tailwindcss,blender&perline=9&theme=dark" />
   </a>
 </p>
 
