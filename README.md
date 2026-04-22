@@ -34,7 +34,7 @@ I specialize in merging heavy technical logic with creative design. Whether it's
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bsse24002@itu.edu.pk" target="_blank">
     <img src="https://img.shields.io/badge/Academic_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsar.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact@abdurrafay.dev" target="_blank">
     <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal" />
   </a>
   <a href="https://www.linkedin.com/in/abdur-rafay-dev-profile" target="_blank">
